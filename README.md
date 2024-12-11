@@ -36,7 +36,7 @@ AI can be broadly categorized based on its functionalities:
 - **Self-aware AI:** A futuristic concept where machines possess consciousness.
 
 ### Video Tutorial
-- [Introduction to AI]<iframe width="560" height="315" src="https://www.youtube.com/embed/2LaAJq1lB1Q?si=kcn0DOhLlsLj0sW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/2LaAJq1lB1Q?si=kcn0DOhLlsLj0sW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![AI Concept](https://miro.medium.com/v2/resize:fit:992/1*dGU2-t9i2K6JhK9CBYdGLA.png)
 
